@@ -18,3 +18,7 @@ Luego se hace un analisis de los datos y resultados frente al metodo presentado 
 2.   preparacion del data set, creacion de la red neuronal y entrenamiento 
 3.   Analisis de resultados
 4.   conclusion
+
+El trabajo esta escrito en en este ["notebook jupyter"](https://github.com/kascesar/multivariate-time-series-prediction-LSTM-for-ETA-estimation/blob/master/LSTMeta.ipynb).
+
+Cesar M.
